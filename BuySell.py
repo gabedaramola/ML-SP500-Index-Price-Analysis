@@ -184,6 +184,6 @@ def do_ml(ticker):
     return confidence
 
 # examples of running:
-do_ml('XOM')
-do_ml('AAPL')
-do_ml('ABT')  
+do_ml('GOOGL')
+do_ml('AMZN')
+do_ml('FB')  
